@@ -3,3 +3,4 @@ venv/
 .env 
 ExamFuel\Eaxm_Fuel.egg-info
 results/
+kubectl
