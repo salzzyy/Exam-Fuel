@@ -8,7 +8,7 @@ load_dotenv()
 
 
 def main():
-    st.set_page_config(page_title="Exam Fuel", page_icon="✨")
+    st.set_page_config(page_title="Exam Fuel", page_icon="🤗")
 
     if "quiz_manager" not in st.session_state:
         st.session_state.quiz_manager = QuizManager()
