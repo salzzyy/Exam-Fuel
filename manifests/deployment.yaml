@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: llmops-app
-        image: salzzy/exam-fuel:v182
+        image: salzzy/exam-fuel:v183
         ports:
         - containerPort: 8501
         env:
